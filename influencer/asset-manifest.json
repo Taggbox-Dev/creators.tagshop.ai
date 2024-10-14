@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "https://creators.tagshop.ai/influencer/static/css/main.38149e54.css",
-    "main.js": "https://creators.tagshop.ai/influencer/static/js/main.10ac2758.js",
+    "main.css": "https://creators.tagshop.ai/influencer/static/css/main.4be41d54.css",
+    "main.js": "https://creators.tagshop.ai/influencer/static/js/main.95fb294b.js",
     "index.html": "https://creators.tagshop.ai/influencer/index.html"
   },
   "entrypoints": [
-    "static/css/main.38149e54.css",
-    "static/js/main.10ac2758.js"
+    "static/css/main.4be41d54.css",
+    "static/js/main.95fb294b.js"
   ]
 }
